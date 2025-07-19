@@ -20,11 +20,12 @@ Una aplicación de tareas (ToDo) moderna y funcional desarrollada con Flutter, q
 
 ## 📱 Capturas de Pantalla
 
-### Interfaz Principal
-![Página principal de la ToDo App](assets/screenshots/Captura%20de%20pantalla%202025-07-19%20141404.png)
+<div align="center">
+  <img src="assets/screenshots/Captura%20de%20pantalla%202025-07-19%20141404.png" width="300" alt="Página principal de la ToDo App" />
+  <img src="assets/screenshots/Captura%20de%20pantalla%202025-07-19%20141457.png" width="300" alt="Eliminar tarea con gesto de deslizamiento" />
+</div>
 
-### Gestión de Tareas
-![Crear y gestionar tareas](assets/screenshots/Captura%20de%20pantalla%202025-07-19%20141457.png)
+*Interfaz principal y funcionalidad de eliminación de tareas*
 
 ## 🚀 Instalación y Configuración
 
